@@ -1,0 +1,5 @@
+100000a100001,100004
+> 
+> for src in (find ~/.config/fish/config -name '*.fish')
+>     source $src
+> end
